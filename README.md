@@ -1,5 +1,5 @@
 # AWS
-
+- [ ] https://www.coursera.org/learn/aws-certified-solutions-architect-associate/home/info
 [Deploying an Application on AWS](https://app.pluralsight.com/library/courses/deploying-application-aws/table-of-contents)
 ## ECR Elastic Container Registry to store docker image, tag
 ## ECS Elastic Container Service
