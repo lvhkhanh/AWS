@@ -1,4 +1,8 @@
 # AWS
+## Certificates
+- [ ] Cloud Practitioner
+- [ ] Solutions Architect Associate
+- [ ] [Readiness](https://aws.amazon.com/training/events/?nc2=sb_tr_evt&get-certified-vilt-courses-cards.sort-by=item.additionalFields.startDateSort&get-certified-vilt-courses-cards.sort-order=asc&awsf.get-certified-vilt-courses-series=series%23aws-certification-exam-readiness&trk=89b72f77-bd98-4afe-9398-f1bff93676ec&sc_channel=em&mkt_tok=MTEyLVRaTS03NjYAAAGHI89T_r-y8CWLdHS7TYePKHbrqX2MmxMOpm-IoIolTNS29GQITCt1Q7QhRpYLxKoI4lF3guLu3kKYS_sspbR9uJKlLLWx6A6ySVQgQhUTdEqLxakVSA&awsf.get-certified-vilt-courses-type=*all&awsf.get-certified-vilt-audience=*all&awsf.get-certified-vilt-locations=*all&awsf.get-certified-vilt-countries=*all&awsf.get-certified-vilt-languages=*all&awsf.get-certified-vilt-courses-level=*all&awsf.get-certified-vilt-courses-tech-category=*all)
 - [ ] https://www.coursera.org/learn/aws-certified-solutions-architect-associate/home/info
 [Deploying an Application on AWS](https://app.pluralsight.com/library/courses/deploying-application-aws/table-of-contents)
 ## ECR Elastic Container Registry to store docker image, tag
