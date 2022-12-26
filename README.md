@@ -5,7 +5,7 @@
 ## Certificates
 - [x] Certificate of attendance: AWS Innovate Online Conference
 - [x] AWSome Day Online Conference
-- [ ] Cloud Practitioner
+- [x] Cloud Practitioner https://www.credly.com/earner/earned/badge/2691cd5e-6902-417a-a9f8-66216168fea9
 - [ ] Solutions Architect Associate
 - [ ] https://www.coursera.org/learn/aws-certified-solutions-architect-associate/home/info
 [Deploying an Application on AWS](https://app.pluralsight.com/library/courses/deploying-application-aws/table-of-contents)
