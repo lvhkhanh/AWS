@@ -5,6 +5,7 @@
 ## Certificates
 - [x] Certificate of attendance: AWS Innovate Online Conference
 - [x] AWSome Day Online Conference
+- [x] AWS Cloud Quest: Cloud Practitioner https://www.credly.com/badges/f5c2152e-efbb-4770-8891-301da023f423
 - [x] Cloud Practitioner https://www.credly.com/earner/earned/badge/2691cd5e-6902-417a-a9f8-66216168fea9
 - [ ] Solutions Architect Associate
 - [ ] https://www.coursera.org/learn/aws-certified-solutions-architect-associate/home/info
