@@ -15,3 +15,4 @@
 create cluster, task, ram,cpu, container, port; deploy service,family, application load balancer, target group name http, health check grace period, check logs; check networking; add rule 80 everywhere
 ## EC2
 ## EBS Elastic Block Store
+## CodeWhisperer
