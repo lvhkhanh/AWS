@@ -16,3 +16,5 @@ create cluster, task, ram,cpu, container, port; deploy service,family, applicati
 ## EC2
 ## EBS Elastic Block Store
 ## CodeWhisperer
+## S3
+## CloudFront
