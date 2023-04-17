@@ -9,6 +9,8 @@
 - [x] Cloud Practitioner https://www.credly.com/earner/earned/badge/2691cd5e-6902-417a-a9f8-66216168fea9
 - [ ] Solutions Architect Associate
 - [ ] https://www.coursera.org/learn/aws-certified-solutions-architect-associate/home/info
+- [x] Deep Dive: Amazon Elastic Block Store (Amazon EBS) Cost Optimization [10143_3_787545_1681750195_AWS Course Completion Certificate.pdf](https://github.com/lvhkhanh/AWS/files/11253504/10143_3_787545_1681750195_AWS.Course.Completion.Certificate.pdf)
+
 [Deploying an Application on AWS](https://app.pluralsight.com/library/courses/deploying-application-aws/table-of-contents)
 ## ECR Elastic Container Registry to store docker image, tag
 ## ECS Elastic Container Service
